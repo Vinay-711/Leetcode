@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinay-711/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinay-711/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
