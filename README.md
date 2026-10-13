@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinay-711/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vinay-711/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vinay-711/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vinay-711/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
