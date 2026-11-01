@@ -25,6 +25,17 @@ Java and Python solutions maintained by [L Vinay](https://github.com/Vinay-711).
 
 Java submissions generally define the judge’s `Solution` class, and linked-list problems depend on judge-provided types. They are not standalone command-line applications; use the platform’s matching harness or create a separate local wrapper. Python files likewise follow each problem’s judge interface. A source file alone is not proof of an accepted verdict.
 
+Run the offline Python regression suite from the repository root:
+
+```sh
+python -m unittest discover -s tests -v
+```
+
+The suite checks the three Python implementations against independent reference
+behaviors, including exhaustive short bracket strings and small duplicate/anagram
+inputs. GitHub Actions runs the same checks. It does not submit to LeetCode or
+establish a judge verdict, and Java solutions are outside this suite.
+
 For dated solutions with original explanations, local tests and submission URLs, see [leetcode-daily](https://github.com/Vinay-711/leetcode-daily). Preserve the LeetHub topic markers when updating this index. Problem statements belong to their respective platform/authors.
 
 ---
@@ -35,96 +46,96 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
-| [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/master/0053-maximum-subarray) |
-| [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/master/0217-contains-duplicate) |
-| [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinay-711/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/Vinay-711/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/main/0217-contains-duplicate) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0918-maximum-sum-circular-subarray) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/main/2333-minimum-sum-of-squared-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinay-711/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vinay-711/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
-| [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/master/0053-maximum-subarray) |
-| [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
-| [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/master/0053-maximum-subarray) |
-| [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
 | ------- |
-| [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
-| [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0918-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
 | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Vinay-711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/Vinay-711/Leetcode/tree/master/0242-valid-anagram) |
-| [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/master/1096-brace-expansion-ii) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vinay-711/Leetcode/tree/main/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/main/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Vinay-711/Leetcode/tree/main/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/main/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Vinay-711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vinay-711/Leetcode/tree/main/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinay-711/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinay-711/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Vinay-711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0020-valid-parentheses](https://github.com/Vinay-711/Leetcode/tree/master/0020-valid-parentheses) |
-| [0242-valid-anagram](https://github.com/Vinay-711/Leetcode/tree/master/0242-valid-anagram) |
-| [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vinay-711/Leetcode/tree/main/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Vinay-711/Leetcode/tree/main/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Vinay-711/Leetcode/tree/main/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
 ## Backtracking
 |  |
 | ------- |
-| [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
 ## Stack
 |  |
 | ------- |
-| [0020-valid-parentheses](https://github.com/Vinay-711/Leetcode/tree/master/0020-valid-parentheses) |
-| [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [0020-valid-parentheses](https://github.com/Vinay-711/Leetcode/tree/main/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
-| [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
 ## Sorting
 |  |
 | ------- |
-| [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/Vinay-711/Leetcode/tree/master/0242-valid-anagram) |
-| [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/master/1096-brace-expansion-ii) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/Vinay-711/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/main/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Vinay-711/Leetcode/tree/main/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/main/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vinay-711/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
-| [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/Vinay-711/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/main/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vinay-711/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
-| [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/main/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
-| [0020-valid-parentheses](https://github.com/Vinay-711/Leetcode/tree/master/0020-valid-parentheses) |
+| [0020-valid-parentheses](https://github.com/Vinay-711/Leetcode/tree/main/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
