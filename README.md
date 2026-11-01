@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/master/0217-contains-duplicate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinay-711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vinay-711/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
