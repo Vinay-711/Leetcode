@@ -56,3 +56,9 @@
 	<li><code>1 &lt;= s.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>s</code> consists of parentheses only <code>&#39;()[]{}&#39;</code>.</li>
 </ul>
+
+## Repository implementation
+
+[View the solution source](0020-valid-parentheses.py) · [Browse the solution index](../README.md).
+
+This file includes platform problem material; source presence does not independently establish a judge verdict. Use the matching judge interface when running the solution.

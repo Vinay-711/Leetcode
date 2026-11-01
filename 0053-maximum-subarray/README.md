@@ -35,3 +35,9 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> If you have figured out the <code>O(n)</code> solution, try coding another solution using the <strong>divide and conquer</strong> approach, which is more subtle.</p>
+
+## Repository implementation
+
+[View the solution source](0053-maximum-subarray.java) · [Browse the solution index](../README.md).
+
+This file includes platform problem material; source presence does not independently establish a judge verdict. Use the matching judge interface when running the solution.

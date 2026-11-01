@@ -39,3 +39,9 @@ Note that, there are other ways to obtain the minimum of the sum of square diffe
 	<li><code>0 &lt;= nums1[i], nums2[i] &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= k1, k2 &lt;= 10<sup>9</sup></code></li>
 </ul>
+
+## Repository implementation
+
+[View the solution source](2333-minimum-sum-of-squared-difference.java) · [Browse the solution index](../README.md).
+
+This file includes platform problem material; source presence does not independently establish a judge verdict. Use the matching judge interface when running the solution.

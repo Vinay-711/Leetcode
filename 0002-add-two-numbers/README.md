@@ -33,3 +33,9 @@
 	<li><code>0 &lt;= Node.val &lt;= 9</code></li>
 	<li>It is guaranteed that the list represents a number that does not have leading zeros.</li>
 </ul>
+
+## Repository implementation
+
+[View the solution source](0002-add-two-numbers.java) · [Browse the solution index](../README.md).
+
+This file includes platform problem material; source presence does not independently establish a judge verdict. Use the matching judge interface when running the solution.

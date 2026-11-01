@@ -57,3 +57,9 @@
 	<li><code>expression[i]</code> consists of <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;,&#39;</code>or lowercase English letters.</li>
 	<li>The given&nbsp;<code>expression</code>&nbsp;represents a set of words based on the grammar given in the description.</li>
 </ul>
+
+## Repository implementation
+
+[View the solution source](1096-brace-expansion-ii.java) · [Browse the solution index](../README.md).
+
+This file includes platform problem material; source presence does not independently establish a judge verdict. Use the matching judge interface when running the solution.

@@ -37,3 +37,9 @@
 	<li><code>1 &lt;= n &lt;= 3 * 10<sup>4</sup></code></li>
 	<li><code>-3 * 10<sup>4</sup> &lt;= nums[i] &lt;= 3 * 10<sup>4</sup></code></li>
 </ul>
+
+## Repository implementation
+
+[View the solution source](0918-maximum-sum-circular-subarray.java) · [Browse the solution index](../README.md).
+
+This file includes platform problem material; source presence does not independently establish a judge verdict. Use the matching judge interface when running the solution.

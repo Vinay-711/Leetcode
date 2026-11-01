@@ -34,3 +34,9 @@
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
 	<li><code>1 &lt;= x &lt;= 10<sup>9</sup></code></li>
 </ul>
+
+## Repository implementation
+
+[View the solution source](1658-minimum-operations-to-reduce-x-to-zero.java) · [Browse the solution index](../README.md).
+
+This file includes platform problem material; source presence does not independently establish a judge verdict. Use the matching judge interface when running the solution.
