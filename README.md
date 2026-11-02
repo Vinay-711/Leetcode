@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vinay-711/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/main/0217-contains-duplicate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0918-maximum-sum-circular-subarray) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vinay-711/Leetcode/tree/master/0035-search-insert-position) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinay-711/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vinay-711/Leetcode/tree/main/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
