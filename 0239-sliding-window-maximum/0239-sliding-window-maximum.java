@@ -1,0 +1,1 @@
+class Solution {public int[] maxSlidingWindow(int[] a,int k){int[] out=new int[a.length-k+1],q=new int[a.length];int head=0,tail=0;for(int i=0;i<a.length;i++){while(head<tail&&q[head]<=i-k)head++;while(head<tail&&a[q[tail-1]]<=a[i])tail--;q[tail++]=i;if(i>=k-1)out[i-k+1]=a[q[head]];}return out;}}
