@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Vinay-711/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Vinay-711/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0918-maximum-sum-circular-subarray) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinay-711/Leetcode/tree/main/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/Vinay-711/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Vinay-711/Leetcode/tree/main/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Vinay-711/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Vinay-711/Leetcode/tree/main/0242-valid-anagram) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Vinay-711/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0326-power-of-three](https://github.com/Vinay-711/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vinay-711/Leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
