@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vinay-711/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Vinay-711/Leetcode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/Vinay-711/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0053-maximum-subarray) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vinay-711/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vinay-711/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Vinay-711/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vinay-711/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Vinay-711/Leetcode/tree/master/0367-valid-perfect-square) |
