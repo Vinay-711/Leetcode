@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Vinay-711/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Vinay-711/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Vinay-711/Leetcode/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/Vinay-711/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinay-711/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
