@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vinay-711/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Vinay-711/Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Vinay-711/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vinay-711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Vinay-711/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0053-maximum-subarray) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinay-711/Leetcode/tree/main/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Vinay-711/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/main/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vinay-711/Leetcode/tree/main/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
