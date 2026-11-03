@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vinay-711/Leetcode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Vinay-711/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/main/0217-contains-duplicate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0918-maximum-sum-circular-subarray) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Vinay-711/Leetcode/tree/master/0051-n-queens) |
 | [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/Vinay-711/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Vinay-711/Leetcode/tree/master/0461-hamming-distance) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Vinay-711/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
