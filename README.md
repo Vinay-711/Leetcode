@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Vinay-711/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Vinay-711/Leetcode/tree/master/0052-n-queens-ii) |
 | [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -169,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Vinay-711/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Vinay-711/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
