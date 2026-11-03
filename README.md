@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vinay-711/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Vinay-711/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Vinay-711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Vinay-711/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/main/0217-contains-duplicate) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vinay-711/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Vinay-711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Vinay-711/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Vinay-711/Leetcode/tree/main/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Vinay-711/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vinay-711/Leetcode/tree/main/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Vinay-711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Vinay-711/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vinay-711/Leetcode/tree/master/0052-n-queens-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vinay-711/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vinay-711/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
