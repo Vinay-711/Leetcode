@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinay-711/Leetcode/tree/main/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Vinay-711/Leetcode/tree/master/0041-first-missing-positive) |
+| [0126-word-ladder-ii](https://github.com/Vinay-711/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0217-contains-duplicate](https://github.com/Vinay-711/Leetcode/tree/main/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vinay-711/Leetcode/tree/main/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Vinay-711/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Vinay-711/Leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Vinay-711/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/Vinay-711/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0242-valid-anagram](https://github.com/Vinay-711/Leetcode/tree/main/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
 ## Backtracking
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Vinay-711/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vinay-711/Leetcode/tree/master/0052-n-queens-ii) |
+| [0126-word-ladder-ii](https://github.com/Vinay-711/Leetcode/tree/master/0126-word-ladder-ii) |
 | [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Vinay-711/Leetcode/tree/master/0126-word-ladder-ii) |
 | [1096-brace-expansion-ii](https://github.com/Vinay-711/Leetcode/tree/main/1096-brace-expansion-ii) |
 ## Sorting
 |  |
@@ -209,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vinay-711/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Vinay-711/Leetcode/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
